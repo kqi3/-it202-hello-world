@@ -1,2 +1,2 @@
 # -it202-hello-world
-This is fold for IT202(html,css,javascript)
+This is a folder for IT202(html,css,javascript)
